@@ -1,0 +1,17 @@
+.jumbotron{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+
+.inline-div{
+    margin: .5rem auto;
+}
+
+.inline-div p{
+    display: inline;
+}
+
+.btn-danger{
+    color: #212529;
+}
