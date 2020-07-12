@@ -3,6 +3,9 @@
     padding-right: 0.5rem;
 }
 
+.messages{
+    margin: .5rem auto;
+}
 
 .inline-div{
     margin: .5rem auto;
